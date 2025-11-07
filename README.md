@@ -1,57 +1,44 @@
-<div align="center">
+# Ganesh Boggarapu
 
-# Hi, I'm Ganesh Boggarapu 👋
-
-### 🚀 Aspiring DevOps Engineer | Linux Specialist | Automation Buff
-
-[![Website](https://img.shields.io/badge/Website-ganeshboggarapu.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ganeshboggarapu.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh_Boggarapu-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ganesh-boggarapu)  
-[![Twitter](https://img.shields.io/badge/Twitter-@ganeshboggarapu-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ganeshboggarapu)
-
-</div>
+🚀 Aspiring DevOps Engineer | Linux Enthusiast | Automation Advocate
 
 ---
 
-### About Me
+## About Me
 
-🎯 Currently mastering the craft of DevOps with hands-on experience in Linux, Python, and container orchestration. I’m driven by challenges, love automation, and am on a journey to build scalable infrastructures for seamless software delivery.
+Teaching myself the art of DevOps with passion and persistence. Driven to learn, automate, and build scalable systems. Based in Bengaluru, India, currently honing skills in containerization, CI/CD, and cloud infrastructure.
 
-- 🌍 Based in Bengaluru, India  
-- 💼 Tech Mahindra | DevOps Enthusiast  
-- 💡 Always learning and exploring Kubernetes, CI/CD pipelines, and cloud-native tech  
-
----
-
-### Skills & Tech Stack
-
-| Cloud & DevOps      | Programming        | CI/CD & Automation | Tools & OS         |
-|---------------------|--------------------|--------------------|--------------------|
-| Docker 🐳           | Python 🐍           | Jenkins 🤖          | Linux (Ubuntu, RHEL) 🐧 |
-| Kubernetes ☸️        | Golang 🚀          | GitHub Actions 🔄  | Bash Scripting 🖥️   |
-| Terraform 🌍        | Shell Scripting 🔧  | Helm 📦            | Git & GitHub       |
+- 💼 Working at Tech Mahindra  
+- 🛠️ Hands-on with Python, Go, Linux, Docker, Kubernetes  
+- 🎓 Preparing for RHCSA and expanding Cloud-native expertise  
+- 🌱 Active open-source contributor and lifelong learner  
 
 ---
 
-### Featured Projects
+## Featured Repositories
 
-- [udemy_python](https://github.com/ganeshbkrp/udemy_python) — Python tutorials for beginners  
-- [Linux-For-Beginners](https://github.com/ganeshbkrp/Linux-For-Beginners) — My RHCSA study notes and exercises  
-- [golang_practise](https://github.com/ganeshbkrp/golang_practise) — Go language hands-on practice  
-- [Git-practise](https://github.com/ganeshbkrp/Git-practise) — Git workflow and collaboration practice  
-- [Dapp-Pycon](https://github.com/ganeshbkrp/Dapp-Pycon) — Building decentralized apps in Python  
-
----
-
-### GitHub Stats
-
-![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshbkrp&show_icons=true&theme=tokyonight)
+| Repository           | Description                                              |
+|---------------------|----------------------------------------------------------|
+| [udemy_python](https://github.com/ganeshbkrp/udemy_python)       | Python tutorials and exercises for beginners               |
+| [Linux-For-Beginners](https://github.com/ganeshbkrp/Linux-For-Beginners) | Study guide towards RHCSA certification                      |
+| [golang_practise](https://github.com/ganeshbkrp/golang_practise)           | Go language practice projects                               |
+| [Git-practise](https://github.com/ganeshbkrp/Git-practise)                   | Git & GitHub workflow practice                               |
+| [Dapp-Pycon](https://github.com/ganeshbkrp/Dapp-Pycon)                       | Building decentralized applications in Python               |
 
 ---
 
-### Fun Fact
+## Connect with me
 
-> 💡 *“The best way to predict the future is to create it.”* — Peter Drucker
+[![Website](https://img.shields.io/badge/Website-ganeshboggarapu.com-blue?style=flat-square&logo=google-chrome)](https://www.ganeshboggarapu.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh_Boggarapu-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ganesh-boggarapu)  
+[![Twitter](https://img.shields.io/badge/Twitter-@ganeshboggarapu-blue?style=flat-square&logo=twitter)](https://twitter.com/ganeshboggarapu)
 
 ---
 
-Thank you for stopping by! Let’s connect and build something extraordinary.
+## GitHub Stats
+
+![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshbkrp&show_icons=true&theme=vue-dark)
+
+---
+
+> "In the middle of difficulty lies opportunity." – Albert Einstein
