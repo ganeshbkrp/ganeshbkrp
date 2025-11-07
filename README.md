@@ -8,7 +8,7 @@
 
 I'm on a mission to become a proficient DevOps Engineer by the end of this year. With a strong foundation in Linux administration, Python programming, and container technologies, I am continuously learning and practicing to master the skills required to excel in my career path.
 
-- 🌍 Based in Bengaluru, India
+- 🌍 Based in Hyderabad, India
 - 💼 Currently with Tech Mahindra
 - 🚀 Passionate about automation, CI/CD, and cloud-native technologies
 - 📚 Lifelong learner and open-source contributor
