@@ -1,12 +1,12 @@
 # Hi there, I'm Ganesh Boggarapu 👋
 
-🔥 Upcoming DevOps Engineer | Linux & Container Enthusiast
+🔥 Upcoming DevOps Engineer | 
 
 ---
 
 ## About Me
 
-I'm on a mission to become a proficient DevOps Engineer by the end of this year. With a strong foundation in Linux administration, Python programming, and container technologies, I am continuously learning and practicing to master the skills required to excel in my career path.
+I'm on a mission to become a proficient DevOps Engineer by the end of this year. With a strong foundation in Linux administration and container technologies, I am continuously learning and practicing to master the skills required to excel in my career path.
 
 - 🌍 Based in Bengaluru, India
 - 💼 Currently with Tech Mahindra
