@@ -8,7 +8,7 @@
 
 I'm on a mission to become a proficient DevOps Engineer by the end of this year. With a strong foundation in Linux administration and container technologies, I am continuously learning and practicing to master the skills required to excel in my career path.
 
-- 🌍 Based in Bengaluru, India
+- 🌍 Based in Hyderabad, India
 - 💼 Currently with Tech Mahindra
 - 🚀 Passionate about automation, CI/CD, and cloud-native technologies
 - 📚 Lifelong learner and open-source contributor
@@ -45,6 +45,10 @@ I'm on a mission to become a proficient DevOps Engineer by the end of this year.
 [![Twitter](https://img.shields.io/badge/Twitter-@ganeshboggarapu-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ganeshboggarapu)
 
 ---
+
+## Github Views
+
+[![Ganesh Boggarapu profile views](https://u8views.com/api/v1/github/profiles/45730558/views/day-week-month-total-count.svg)](https://u8views.com/github/ganeshbkrp)
 
 ## GitHub Stats
 
