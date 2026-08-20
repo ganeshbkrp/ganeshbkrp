@@ -22,7 +22,6 @@ I'm on a mission to become a proficient DevOps Engineer by the end of this year.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-AUTO?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
@@ -31,7 +30,6 @@ I'm on a mission to become a proficient DevOps Engineer by the end of this year.
 
 - [udemy_python](https://github.com/ganeshbkrp/udemy_python) - Python tutorial programs to build strong basics
 - [Linux-For-Beginners](https://github.com/ganeshbkrp/Linux-For-Beginners) - My learning guide towards RHCSA certification
-- [golang_practise](https://github.com/ganeshbkrp/golang_practise) - Golang practice codes and experiments
 - [Git-practise](https://github.com/ganeshbkrp/Git-practise) - Hands-on Git and GitHub practices
 - [commclassroomOP](https://github.com/ganeshbkrp/commclassroomOP) - Community classroom open projects & learning
 - [Dapp-Pycon](https://github.com/ganeshbkrp/Dapp-Pycon) - Building your first decentralized app in Python
