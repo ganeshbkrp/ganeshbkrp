@@ -27,13 +27,13 @@ I'm on a mission to become a proficient DevOps Engineer by the end of this year.
 ---
 
 ## Popular Repositories
-
-- [udemy_python](https://github.com/ganeshbkrp/udemy_python) - Python tutorial programs to build strong basics
-- [Linux-For-Beginners](https://github.com/ganeshbkrp/Linux-For-Beginners) - My learning guide towards RHCSA certification
-- [Git-practise](https://github.com/ganeshbkrp/Git-practise) - Hands-on Git and GitHub practices
-- [commclassroomOP](https://github.com/ganeshbkrp/commclassroomOP) - Community classroom open projects & learning
-- [Dapp-Pycon](https://github.com/ganeshbkrp/Dapp-Pycon) - Building your first decentralized app in Python
-
+ 
+- [Linux-For-Beginners](https://github.com/ganeshbkrp/Linux-OvertheBandit-practise) - Linux War games Over the Bandit ofr Linux practise
+- [Kubernetes-Zero-Hero] (https://github.com/ganeshbkrp/Kubernetes-Zero-to-Hero) - Kubernetes practise labs
+- [Jenkins CICD] (https://github.com/ganeshbkrp/django-notes-app) - Jenkins CICD pipeline project with Notes-app
+- [Terraform Zero-to-Hero] (https://github.com/ganeshbkrp/terraform-zero-to-hero) - Terraform practise Labs
+- [Docker-Zero-Hero] (https://github.com/ganeshbkrp/Docker-Zero-to-Hero) - Docker installation and full feature exploration.
+- 
 ---
 
 ## Connect with Me
