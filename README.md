@@ -29,10 +29,10 @@ I'm on a mission to become a proficient DevOps Engineer by the end of this year.
 ## Popular Repositories
  
 - [Linux-For-Beginners](https://github.com/ganeshbkrp/Linux-OvertheBandit-practise) - Linux War games Over the Bandit ofr Linux practise
-- [Kubernetes-Zero-Hero] (https://github.com/ganeshbkrp/Kubernetes-Zero-to-Hero) - Kubernetes practise labs
-- [Jenkins CICD] (https://github.com/ganeshbkrp/django-notes-app) - Jenkins CICD pipeline project with Notes-app
-- [Terraform Zero-to-Hero] (https://github.com/ganeshbkrp/terraform-zero-to-hero) - Terraform practise Labs
-- [Docker-Zero-Hero] (https://github.com/ganeshbkrp/Docker-Zero-to-Hero) - Docker installation and full feature exploration.
+- [Kubernetes-Zero-Hero](https://github.com/ganeshbkrp/Kubernetes-Zero-to-Hero) - Kubernetes practise labs
+- [Jenkins CICD](https://github.com/ganeshbkrp/django-notes-app) - Jenkins CICD pipeline project with Notes-app
+- [Terraform Zero-to-Hero](https://github.com/ganeshbkrp/terraform-zero-to-hero) - Terraform practise Labs
+- [Docker-Zero-Hero](https://github.com/ganeshbkrp/Docker-Zero-to-Hero) - Docker installation and full feature exploration.
   
 ---
 
